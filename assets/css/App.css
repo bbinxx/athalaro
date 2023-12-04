@@ -1,16 +1,15 @@
 @font-face {
   font-family: Aquire;
-  src: url(./assets/fonts/AquireBold-8Ma60.otf);
+  src: url(../fonts/AquireBold-8Ma60.otf);
 }
-body{
-  overflow-x: hidden;
-}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: "border-box";
   user-select: none;
 }
+
 .home-head {
   font-family: Aquire;
   text-shadow: 900;
